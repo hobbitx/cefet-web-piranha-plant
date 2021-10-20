@@ -1,0 +1,22 @@
+blockquote {
+    margin-left: 60px;
+    text-align: justify;
+}
+img {
+    width: 300px;
+    border-width: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img, #voce-sabia {
+    border-style: solid;
+    border-color: limegreen;
+}
+
+#voce-sabia {
+    border-width: 3px;
+    padding: 10px;
+    background-image: url("../imagens/fundo.png");
+}
